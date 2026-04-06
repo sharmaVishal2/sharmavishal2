@@ -1,5 +1,8 @@
 <!-- 🔥 Animated Header -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=30&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Vishal+Sharma;Full+Stack+Developer;Spring+Boot+%7C+React+%7C+WebSocket;Building+Scalable+Real-Time+Apps🚀" />
+</p>
 
 <h1 align="center">👨‍💻 Vishal Sharma</h1>
 
@@ -15,8 +18,9 @@
 <a href="https://sharmavishal2.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/🌍 Portfolio-00C2FF?style=for-the-badge"/>
 </a>
-
-
+<a href="https://github.com/sharmaVishal2">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 <a href="mailto:sharma2005vishal@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
@@ -29,13 +33,12 @@
 
 ## 🧠 About Me
 
-<!-- <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 * 🔥 Building **Real-Time Chat Apps (WebSocket)**
 * ⚙️ Backend Specialist (**Spring Boot, REST APIs**)
 * 🌱 Learning **System Design & Scalability**
 * 🧩 Strong in **DSA & Problem Solving**
-* 🎯 Goal → Crack top tech companies
 
 ---
 
@@ -65,7 +68,7 @@
 <a href="https://chatappvishal.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-00C2FF?style=for-the-badge"/>
 </a>
-<a href="https://github.com/sharmaVishal2">
+<a href="https://github.com/sharmaVishal2/Real-Time-Chat-App">
 <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -84,7 +87,7 @@
 <a href="https://e-commerce-application-by-java-spri.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-00C2FF?style=for-the-badge"/>
 </a>
-<a href="https://github.com/sharmaVishal2">
+<a href="https://github.com/sharmaVishal2/E-Commerce-Application-by-Java-Spring-Boot">
 <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -94,8 +97,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=sharmaVishal2&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaVishal2&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sharmaVishal2&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaVishal2&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
@@ -118,16 +121,6 @@
 
 ---
 
-## 📄 Resume
-
-<p align="center">
-<a href="https://sharmavishal2.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/📄 View%20Resume-00C2FF?style=for-the-badge"/>
-</a>
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
@@ -137,5 +130,5 @@
 ---
 
 <p align="center">
-⭐ Made with passion by <a href="https://github.com/sharmaVishal2">Vishal Sharma</a>
+⭐ Made with passion by Vishal Sharma
 </p>
