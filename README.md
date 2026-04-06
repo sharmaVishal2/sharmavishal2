@@ -1,8 +1,6 @@
 <!-- 🔥 Animated Header -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=30&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Vishal+Sharma;Full+Stack+Developer;Spring+Boot+%7C+React+%7C+WebSocket;Building+Scalable+Real-Time+Apps🚀" />
-</p>
+
 
 <h1 align="center">👨‍💻 Vishal Sharma</h1>
 
@@ -18,9 +16,7 @@
 <a href="https://sharmavishal2.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/🌍 Portfolio-00C2FF?style=for-the-badge"/>
 </a>
-<a href="https://github.com/sharmaVishal2">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+
 <a href="mailto:sharma2005vishal@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
@@ -33,7 +29,6 @@
 
 ## 🧠 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 * 🔥 Building **Real-Time Chat Apps (WebSocket)**
 * ⚙️ Backend Specialist (**Spring Boot, REST APIs**)
