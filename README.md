@@ -94,10 +94,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharmaVishal2&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaVishal2&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharmavishal2&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavishal2&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
 ---
 
 ## 🔥 Contribution Streak
