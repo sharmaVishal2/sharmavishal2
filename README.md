@@ -1,11 +1,9 @@
 <!-- 🔥 Animated Header -->
 
-
-
 <h1 align="center">👨‍💻 Vishal Sharma</h1>
 
 <p align="center">
-🚀 Full Stack Developer | Backend Focused | Real-Time Systems  
+🚀 Full Stack Developer | Backend Focused | Scalable Systems  
 </p>
 
 ---
@@ -20,6 +18,7 @@
 <a href="mailto:sharma2005vishal@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
+
 <a href="https://www.linkedin.com/in/sharma-vishal-1abc/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -29,10 +28,9 @@
 
 ## 🧠 About Me
 
-
-* 🔥 Building **Real-Time Chat Apps (WebSocket)**
-* ⚙️ Backend Specialist (**Spring Boot, REST APIs**)
-* 🌱 Learning **System Design & Scalability**
+* 🚀 Building scalable full-stack applications using Spring Boot & React
+* ⚙️ Backend Specialist (**Spring Boot, REST APIs, JWT, Redis**)
+* 🌱 Learning **System Design, Kafka & Scalability**
 * 🧩 Strong in **DSA & Problem Solving**
 
 ---
@@ -42,7 +40,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css" />
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
@@ -50,20 +48,22 @@
 
 ## 🚀 Featured Projects
 
-### 💬 Real-Time Chat App
+### 🤖 SmartHire – AI Powered Interview Platform
 
 <p>
-⚡ WebSocket based real-time messaging <br>
-👥 Multi-user chat rooms <br>
-🔐 Login + Guest access <br>
-🚀 Scalable Spring Boot backend  
+🚀 Role-specific AI interview generation platform <br>
+⚡ Dynamic interview questions based on job roles <br>
+🔐 Secure JWT Authentication & scalable backend <br>
+🧠 Optimized using Redis caching for low latency <br>
+📊 Full-stack architecture using Spring Boot & React
 </p>
 
 <p>
-<a href="https://chatappvishal.vercel.app/">
+<a href="https://ai-hackfest-mlh.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-00C2FF?style=for-the-badge"/>
 </a>
-<a href="https://github.com/sharmaVishal2/Real-Time-Chat-App">
+
+<a href="https://github.com/sharmaVishal2">
 <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -74,14 +74,16 @@
 
 <p>
 🛍️ Product management system <br>
-🔐 Authentication + APIs <br>
-⚡ Full-stack implementation  
+🔐 Authentication + REST APIs <br>
+⚡ Full-stack implementation using Spring Boot & React <br>
+📦 CRUD operations with scalable backend architecture
 </p>
 
 <p>
 <a href="https://e-commerce-application-by-java-spri.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-00C2FF?style=for-the-badge"/>
 </a>
+
 <a href="https://github.com/sharmaVishal2/E-Commerce-Application-by-Java-Spring-Boot">
 <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -89,7 +91,14 @@
 
 ---
 
+## 📈 GitHub Stats
 
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharmaVishal2&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaVishal2&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 
 ## 🔥 Contribution Streak
 
