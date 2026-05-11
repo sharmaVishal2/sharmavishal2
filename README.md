@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/Live%20Demo-00C2FF?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/sharmaVishal2">
+<a href="[https://github.com/sharmaVishal2](https://github.com/sharmaVishal2/Smart-Hire-AI-driven-interview-prepation-)">
 <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
