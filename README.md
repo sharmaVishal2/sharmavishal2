@@ -1,9 +1,13 @@
-<!-- 🔥 Animated Header -->
+<!-- GitHub Profile README -->
 
-<h1 align="center">👨‍💻 Vishal Sharma</h1>
+<h1 align="center">Hi 👋, I'm Vishal Sharma</h1>
+
+<h3 align="center">
+Full Stack Java Developer | Backend Focused | Problem Solver
+</h3>
 
 <p align="center">
-🚀 Full Stack Developer | Backend Focused | Scalable Systems  
+Building scalable applications using Spring Boot, React & modern backend technologies.
 </p>
 
 ---
@@ -11,6 +15,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://sharmavishal2.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/🌍 Portfolio-00C2FF?style=for-the-badge"/>
 </a>
@@ -22,71 +27,101 @@
 <a href="https://www.linkedin.com/in/sharma-vishal-1abc/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
+
 </p>
 
 ---
 
-## 🧠 About Me
+## 💡 About Me
 
-* 🚀 Building scalable full-stack applications using Spring Boot & React
-* ⚙️ Backend Specialist (**Spring Boot, REST APIs, JWT, Redis**)
-* 🌱 Learning **System Design, Kafka & Scalability**
-* 🧩 Strong in **DSA & Problem Solving**
+- 🚀 Full Stack Developer with strong backend fundamentals
+- ⚙️ Skilled in Spring Boot, REST APIs, JWT Authentication & scalable backend systems
+- 🧠 Solved 350+ DSA problems across coding platforms
+- 🌱 Currently learning System Design, Redis & Kafka
+- 💻 Passionate about building real-world scalable applications
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css" />
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
+### Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,tailwind" />
+</p>
+
+### Databases & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,git,github,postman,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 SmartHire – AI Powered Interview Platform
+## 🤖 SmartHire – AI Driven Interview Preparation Platform
 
 <p>
-🚀 Role-specific AI interview generation platform <br>
-⚡ Dynamic interview questions based on job roles <br>
-🔐 Secure JWT Authentication & scalable backend <br>
-🧠 Optimized using Redis caching for low latency <br>
-📊 Full-stack architecture using Spring Boot & React
+AI-powered platform that generates role-specific interview questions and helps users prepare efficiently for technical interviews.
 </p>
 
+### 🔹 Key Features
+
+- 🎯 AI-generated interview questions based on selected roles
+- 🔐 Secure JWT Authentication & authorization
+- ⚡ Optimized backend performance using Redis caching
+- 📊 Full-stack architecture with Spring Boot & React
+- 📱 Responsive and user-friendly UI
+
+### 🔹 Tech Stack
+
+`Spring Boot` `React.js` `JWT` `Redis` `REST APIs` `MySQL`
+
 <p>
+
 <a href="https://ai-hackfest-mlh.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-00C2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀 Live%20Demo-00C2FF?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/sharmaVishal2/Smart-Hire-AI-driven-interview-prepation-">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/💻 Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
+
 </p>
 
 ---
 
-### 🛒 E-Commerce Application
+## 🛒 E-Commerce Application
 
 <p>
-🛍️ Product management system <br>
-🔐 Authentication + REST APIs <br>
-⚡ Full-stack implementation using Spring Boot & React <br>
-📦 CRUD operations with scalable backend architecture
+Full-stack e-commerce backend system with authentication, product management and RESTful APIs.
 </p>
 
+### 🔹 Features
+
+- 🛍️ Product CRUD operations
+- 🔐 JWT Authentication & authorization
+- ⚡ REST API based architecture
+- 📦 Scalable backend structure
+
+### 🔹 Tech Stack
+
+`Spring Boot` `React.js` `MySQL` `REST APIs`
+
 <p>
+
 <a href="https://e-commerce-application-by-java-spri.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-00C2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀 Live%20Demo-00C2FF?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/sharmaVishal2/E-Commerce-Application-by-Java-Spring-Boot">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/💻 Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
+
 </p>
 
 ---
@@ -94,26 +129,31 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharmavishal2&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavishal2&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharmavishal2&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🔥 Contribution Streak
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavishal2&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sharmaVishal2&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🧩 More Projects
+## 🔥 GitHub Streak
 
 <p align="center">
+<img src="https://streak-stats.demolab.com?user=sharmavishal2&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧩 Explore More Projects
+
+<p align="center">
+
 <a href="https://github.com/sharmaVishal2?tab=repositories">
 <img src="https://img.shields.io/badge/🚀 Explore%20All%20Projects-00C2FF?style=for-the-badge"/>
 </a>
+
 </p>
 
 ---
@@ -121,11 +161,11 @@
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sharmaVishal2&label=Visitors&color=00C2FF&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=sharmavishal2&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 <p align="center">
-⭐ Vishal Sharma
+⭐ From <b>Vishal Sharma</b>
 </p>
