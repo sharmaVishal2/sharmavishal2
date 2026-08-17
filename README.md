@@ -1,171 +1,188 @@
-<!-- GitHub Profile README -->
+# 👋 Hi, I'm Vishal Sharma
 
-<h1 align="center">Hi 👋, I'm Vishal Sharma</h1>
+### Backend Software Engineer | Java | Spring Boot | Distributed Systems
 
-<h3 align="center">
-Full Stack Java Developer | Backend Focused | Problem Solver
-</h3>
+I’m a Computer Science Engineering student focused on building scalable backend systems, secure REST APIs, and production-oriented applications using Java and Spring Boot.
 
-<p align="center">
-Building scalable applications using Spring Boot, React & modern backend technologies.
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://sharmavishal2.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/🌍 Portfolio-00C2FF?style=for-the-badge"/>
-</a>
-
-<a href="mailto:sharma2005vishal@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sharma-vishal-1abc/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
+I enjoy solving real-world engineering problems involving backend architecture, databases, caching, authentication, and distributed systems.
 
 ---
 
 ## 💡 About Me
 
-- 🚀 Full Stack Developer with strong backend fundamentals
-- ⚙️ Skilled in Spring Boot, REST APIs, JWT Authentication & scalable backend systems
-- 🧠 Solved 350+ DSA problems across coding platforms
-- 🌱 Currently learning System Design, Redis & Kafka
-- 💻 Passionate about building real-world scalable applications
+- 🚀 Backend-focused Software Engineer
+- ☕ Strong foundation in Java and Spring Boot
+- ⚙️ Experienced with REST APIs, Spring Security, JPA/Hibernate and PostgreSQL
+- ⚡ Building distributed systems using Redis
+- 🧠 Solved 300+ DSA problems
+- 🏆 AIR 102 in NEC 2025
+- 👨‍💻 Team Leader in Smart India Hackathon 2024
+- 🌱 Currently strengthening System Design, Distributed Systems and Backend Engineering
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css" />
-</p>
+### 💻 Languages
+`Java` `Python` `JavaScript` `SQL`
 
-### Frameworks & Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,tailwind" />
-</p>
+### ⚙️ Backend
+`Spring Boot` `Spring MVC` `Spring Security` `Spring Data JPA` `REST APIs` `Hibernate` `Microservices`
 
-### Databases & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,git,github,postman,vscode" />
-</p>
+### 🗄️ Databases & Caching
+`PostgreSQL` `MySQL` `MongoDB` `Redis`
+
+### 🎨 Frontend
+`React` `HTML` `CSS` `Tailwind CSS`
+
+### 🤖 AI
+`Generative AI` `Amazon Q` `Prompt Engineering` `LLM Integration`
+
+### 🛠️ Tools & DevOps
+`Docker` `Git` `GitHub` `Maven` `Postman` `Vercel` `Render`
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 SmartHire – AI Driven Interview Preparation Platform
+## 🔥 Distributed Rate Limiter Service
 
-<p>
-AI-powered platform that generates role-specific interview questions and helps users prepare efficiently for technical interviews.
-</p>
+A production-oriented distributed rate limiting service built with Spring Boot and Redis to control API traffic and protect backend services from excessive requests.
 
-### 🔹 Key Features
+### Key Features
 
-- 🎯 AI-generated interview questions based on selected roles
-- 🔐 Secure JWT Authentication & authorization
-- ⚡ Optimized backend performance using Redis caching
-- 📊 Full-stack architecture with Spring Boot & React
-- 📱 Responsive and user-friendly UI
+- 🚦 Token Bucket, Sliding Window and Fixed Window algorithms
+- ⚡ Redis-backed distributed request tracking
+- 🔐 Secure REST APIs for rate-limit rule management
+- 🗄️ PostgreSQL-based rule persistence
+- 🐳 Dockerized backend infrastructure
+- 📊 Request monitoring and rate-limit metrics
 
-### 🔹 Tech Stack
+### Tech Stack
 
-`Spring Boot` `React.js` `JWT` `Redis` `REST APIs` `MySQL`
+`Java` `Spring Boot` `Redis` `PostgreSQL` `Docker` `Spring Data JPA`
 
-<p>
+🔗 [View Project](https://github.com/sharmaVishal2/Distributed-Rate-Limiter)
 
-<a href="https://ai-hackfest-mlh.vercel.app/">
-<img src="https://img.shields.io/badge/🚀 Live%20Demo-00C2FF?style=for-the-badge"/>
+---
+
+## 🎯 GoalFlow – Enterprise Goal Management Platform
+
+An enterprise-style goal management platform supporting Employee, Manager and Admin workflows with approvals, reviews, blocker tracking, AI suggestions and analytics.
+
+### Key Features
+
+- 👥 Role-based Employee, Manager and Admin workflows
+- 🔐 JWT authentication and authorization
+- 🎯 Goal creation, approval and review cycles
+- 🤖 AI-powered goal suggestions using Groq
+- 📊 Progress tracking and analytics
+- ⚙️ Secure Spring Boot REST APIs
+
+### Tech Stack
+
+`Java` `Spring Boot` `React` `PostgreSQL` `JWT` `Groq API`
+
+🔗 [GitHub](https://github.com/sharmaVishal2/GoalFlow)  
+🌐 [Live Demo](https://goal-flows.vercel.app/)
+
+---
+
+## 🛒 E-Commerce Backend System
+
+A production-oriented e-commerce backend built with Spring Boot featuring secure authentication, product management, cart and order workflows, search and filtering.
+
+### Key Features
+
+- 🛍️ Product and category management
+- 🔐 Spring Security with JWT & OAuth 2.0
+- 🛒 Cart and order management
+- 🔎 Paginated product search and filtering
+- 🗄️ PostgreSQL database with JPA/Hibernate
+- ⚙️ RESTful backend architecture
+
+### Tech Stack
+
+`Spring Boot` `PostgreSQL` `Spring Security` `OAuth 2.0` `JWT` `JPA/Hibernate`
+
+🔗 [View Project](https://github.com/sharmaVishal2/E-Commerce-Application-by-Java-Spring-Boot)
+
+---
+
+# 🏆 Achievements & Certifications
+
+- 🥇 **AIR 102 – NEC 2025** among 4,000+ colleges nationwide
+- 🏆 **Smart India Hackathon 2024** – Team Leader of a 6-member team, shortlisted in Top 50
+- 🧠 **300+ DSA Problems** solved across coding platforms
+- ⭐ **CodeChef Starter Contest 237** – Global Rank 824
+- 💼 **JP Morgan Chase – Software Engineering Virtual Experience Program** via Forage
+- 🤖 **Generative AI Essentials & AI and Cybersecurity Awareness** – AI for All program
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sharmaVishal2&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaVishal2&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sharmaVishal2&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/sharma_vishal_1/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://github.com/sharmaVishal2/Smart-Hire-AI-driven-interview-prepation-">
-<img src="https://img.shields.io/badge/💻 Source%20Code-181717?style=for-the-badge&logo=github"/>
+<a href="https://codolio.com/profile/sharma_vishal_1">
+<img src="https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge"/>
 </a>
 
-</p>
-
----
-
-## 🛒 E-Commerce Application
-
-<p>
-Full-stack e-commerce backend system with authentication, product management and RESTful APIs.
-</p>
-
-### 🔹 Features
-
-- 🛍️ Product CRUD operations
-- 🔐 JWT Authentication & authorization
-- ⚡ REST API based architecture
-- 📦 Scalable backend structure
-
-### 🔹 Tech Stack
-
-`Spring Boot` `React.js` `MySQL` `REST APIs`
-
-<p>
-
-<a href="https://e-commerce-application-by-java-spri.vercel.app/">
-<img src="https://img.shields.io/badge/🚀 Live%20Demo-00C2FF?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/sharma-vishal-1abc">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/sharmaVishal2/E-Commerce-Application-by-Java-Spring-Boot">
-<img src="https://img.shields.io/badge/💻 Source%20Code-181717?style=for-the-badge&logo=github"/>
+<a href="https://sharmavishal2.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-## 📈 GitHub Stats
+# 🤝 Connect With Me
 
-<p align="center">
+📧 **Email:** sharma2005vishal@gmail.com
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharmavishal2&show_icons=true&theme=tokyonight&hide_border=true"/>
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/sharma-vishal-1abc
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavishal2&layout=compact&theme=tokyonight&hide_border=true"/>
+🐙 **GitHub:**  
+https://github.com/sharmaVishal2
 
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sharmavishal2&theme=tokyonight&hide_border=true"/>
-</p>
+🌐 **Portfolio:**  
+https://sharmavishal2.github.io/Portfolio/
 
 ---
 
-## 🧩 Explore More Projects
+<div align="center">
 
-<p align="center">
+### 🚀 Building scalable systems. Solving real-world problems.
 
-<a href="https://github.com/sharmaVishal2?tab=repositories">
-<img src="https://img.shields.io/badge/🚀 Explore%20All%20Projects-00C2FF?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sharmavishal2&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-<p align="center">
-⭐ From <b>Vishal Sharma</b>
-</p>
+</div>
