@@ -180,14 +180,13 @@
 | 🏅 Achievement | 📌 Details |
 |---|---|
 | 🥇 NEC 2025 | **AIR 102** among 4,000+ colleges |
+| 🏆 PLACEPREP03 | **Global Rank 48** |
 | 🏆 Smart India Hackathon | Team Leader · Top 50 |
 | 🧠 DSA | **300+ Problems Solved** |
 | ⭐ CodeChef | Global Rank **824** |
 | 💼 JP Morgan Chase | Software Engineering Virtual Experience |
 
 </div>
-
----
 
 # 📊 GitHub Analytics
 
