@@ -201,15 +201,6 @@
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sharmaVishal2&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🧩 Coding Profiles
 
