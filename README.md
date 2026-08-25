@@ -8,14 +8,14 @@
   <a href="https://github.com/sharmaVishal2">
     <img src="https://img.shields.io/badge/GitHub-sharmaVishal2-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/sharma-vishal-1abc">
+  <a href="https://linkedin.com/in/Vishal">
     <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Sharma-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://leetcode.com/u/sharma_vishal_1/">
+  <a href="https://leetcode.com/Vishal">
     <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode">
   </a>
-  <a href="https://codolio.com/profile/sharma_vishal_1">
-    <img src="https://img.shields.io/badge/Codolio-Profile-6C63FF?style=for-the-badge">
+  <a href="https://sharmavishal2.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome">
   </a>
 </p>
 
@@ -29,14 +29,12 @@
 
 <img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=sharmaVishal2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-- 🚀 Backend-focused Software Engineer
-- ☕ Building applications with **Java & Spring Boot**
-- ⚙️ Interested in **Distributed Systems & System Design**
-- ⚡ Working with **Redis, PostgreSQL & REST APIs**
-- 🧠 Solved **300+ DSA problems**
-- 🏆 **AIR 102 in NEC 2025**
-- 👨‍💻 Team Leader in **Smart India Hackathon 2024**
-- 🌱 Currently strengthening **System Design & Backend Engineering**
+- 🎓 Final Year **Computer Science Engineering** undergraduate at **AKTU / AITD Kanpur** (2023 – 2027)[cite: 19].
+- 🚀 Backend-focused Software Engineer building applications with **Java & Spring Boot**[cite: 19].
+- ⚙️ Strong focus on **Distributed Systems, Redis In-Memory Caching & Database Optimization**[cite: 19].
+- 🧠 Solved **300+ DSA problems** across LeetCode & CodeChef[cite: 19].
+- 🏆 Team Leader in **Smart India Hackathon 2024** (Top 50 Nationwide)[cite: 19].
+- 🥇 Secured **AIR 102 in NEC 2025** (IIT Bombay) & **Global Rank 48 in CodeChef**[cite: 19].
 
 <br clear="right"/>
 
@@ -45,43 +43,34 @@
 # 🛠️ Technical Skills
 
 ### 💻 Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,sql" />
+  <img src="https://skillicons.dev/icons?i=java,python,js" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend & Frameworks
-
 <p>
-<img src="https://skillicons.dev/icons?i=spring,hibernate" />
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases & Caching
-
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-### 🎨 Frontend
-
+### 🛠️ Tools, Testing & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,maven,postman" />
+  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & DevOps
-
+### 🎨 Frontend & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,maven,postman" />
-</p>
-
-### 🤖 AI
-
-<p>
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM%20Integration-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vercel" />
 </p>
 
 ---
@@ -90,28 +79,22 @@
 
 <div align="center">
 
-## 🔥 Distributed Rate Limiter
+## 🔥 Distributed Rate Limiter Service
 
 <a href="https://github.com/sharmaVishal2/Distributed-Rate-Limiter">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
-> A production-oriented distributed rate limiting service built with **Spring Boot and Redis** to control API traffic and protect backend services from excessive requests.
+> A production-oriented distributed rate-limiting middleware built with **Spring Boot and Redis** to throttle API traffic and protect backend services from cascading failures[cite: 19].
 
-### ✨ Highlights
+- 🚦 Implemented configurable **Token Bucket** & **Sliding Window Counter** algorithms[cite: 19].
+- ⚡ Maintained **sub-5ms evaluation latency** under concurrent traffic streams[cite: 19].
+- 🔐 Leveraged **Redis atomic operations (`INCR`, `EXPIRE`)** to guarantee distributed thread safety[cite: 19].
+- 🐳 Fully containerized with Docker and tested with JUnit 5[cite: 19].
 
-- 🚦 Token Bucket, Sliding Window & Fixed Window algorithms
-- ⚡ Redis-backed distributed request tracking
-- 🔐 Secure REST APIs for rule management
-- 🗄️ PostgreSQL-based configuration persistence
-- 🐳 Dockerized infrastructure
-- 📊 Request monitoring & rate-limit metrics
-
-**Tech Stack**
-
-`Java` `Spring Boot` `Redis` `PostgreSQL` `Docker` `JPA`
+**Tech Stack:** `Java` `Spring Boot` `Redis` `PostgreSQL` `Docker` `Spring Data JPA`[cite: 19]
 
 ---
 
@@ -122,96 +105,67 @@
 <a href="https://github.com/sharmaVishal2/GoalFlow">
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
-
 <a href="https://goal-flows.vercel.app/">
 <img src="https://img.shields.io/badge/Live-Demo-2563EB?style=for-the-badge&logo=vercel"/>
 </a>
 
 </div>
 
-> An enterprise-style goal management platform supporting **Employee, Manager and Admin** workflows with approvals, reviews, AI suggestions and analytics.
+> An enterprise-style goal management platform supporting **Employee, Manager, and Admin** workflows with role-based approvals, analytics, and AI suggestions.
 
-### ✨ Highlights
+- 👥 Multi-tier Role-Based Access Control (RBAC) with secure JWT authorization.
+- 🤖 Integrated Groq LLM API for automated AI goal suggestions.
+- 📊 Real-time goal lifecycle tracking, review cycles, and performance analytics.
+- ⚙️ Modular RESTful backend architecture with PostgreSQL database.
 
-- 👥 Role-based access control
-- 🔐 JWT authentication & authorization
-- 🎯 Goal creation, approval & review cycles
-- 🤖 Groq-powered AI goal suggestions
-- 📊 Progress tracking & analytics
-- ⚙️ Secure Spring Boot REST APIs
-
-**Tech Stack**
-
-`Java` `Spring Boot` `React` `PostgreSQL` `JWT` `Groq API`
+**Tech Stack:** `Java` `Spring Boot` `React` `PostgreSQL` `JWT` `Groq API` `Tailwind CSS`
 
 ---
 
 <div align="center">
 
-## 🛒 E-Commerce Backend System
+## 🛒 E-Commerce Backend Platform
 
 <a href="https://github.com/sharmaVishal2/E-Commerce-Application-by-Java-Spring-Boot">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
-> A production-oriented e-commerce backend built with **Spring Boot**, featuring secure authentication, product management, cart and order workflows, search and filtering.
+> A robust modular backend handling catalog, shopping cart, checkout, and payment gateway abstractions with end-to-end security[cite: 19].
 
-### ✨ Highlights
+- 🛍️ Normalized relational schema covering Products, Users, Cart, Orders, and Payments.
+- 🔐 Stateless **JWT authentication** and **OAuth 2.0** social login via Spring Security[cite: 19].
+- ⚡ Reduced database response times by **~15%** using PostgreSQL composite indexing and Hibernate batch fetching[cite: 19].
+- 🔎 Built paginated search and dynamic multi-criteria filtering using Spring Data JPA Specifications[cite: 19].
 
-- 🛍️ Product & category management
-- 🔐 Spring Security + JWT + OAuth 2.0
-- 🛒 Cart & order management
-- 🔎 Paginated product search & filtering
-- 🗄️ PostgreSQL with JPA/Hibernate
-- ⚙️ RESTful backend architecture
-
-**Tech Stack**
-
-`Spring Boot` `PostgreSQL` `Spring Security` `OAuth 2.0` `JWT` `JPA/Hibernate`
+**Tech Stack:** `Spring Boot` `PostgreSQL` `Spring Security` `OAuth 2.0` `Hibernate` `REST APIs`[cite: 19]
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Certifications
 
 <div align="center">
 
-| 🏅 Achievement | 📌 Details |
+| 🏅 Achievement / Certification | 📌 Highlights |
 |---|---|
-| 🥇 NEC 2025 | **AIR 102** among 4,000+ colleges |
-| 🏆 PLACEPREP03 | **Global Rank 48** |
-| 🏆 Smart India Hackathon | Team Leader · Top 50 |
-| 🧠 DSA | **300+ Problems Solved** |
-| ⭐ CodeChef | Global Rank **824** |
-| 💼 JP Morgan Chase | Software Engineering Virtual Experience |
+| 🥇 **NEC 2025 (IIT Bombay)** | **AIR 102** among 4,000+ participating engineering colleges[cite: 19] |
+| 🏆 **Smart India Hackathon 2024** | **Team Leader** · Shortlisted among **Top 50 Teams Nationwide**[cite: 19] |
+| ⚡ **Competitive Programming** | **Global Rank 48** (PLACEPREP03) · **Global Rank 824** (Starter Contest 237)[cite: 19] |
+| 🧠 **Problem Solving** | Solved **300+ DSA Problems** on LeetCode & CodeChef[cite: 19] |
+| 💼 **JPMorgan Chase & Co.** | Software Engineering Virtual Experience (Microservices & REST APIs)[cite: 19] |
+| 🤖 **TCS Foundation & MPIT-CoE** | Certified in Generative AI Essentials & Cybersecurity Awareness (2026)[cite: 19] |
 
 </div>
+
+---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sharmaVishal2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sharmaVishal2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaVishal2&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-
-# 🧩 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/sharma_vishal_1/">
-<img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://codolio.com/profile/sharma_vishal_1">
-<img src="https://img.shields.io/badge/Codolio-View%20Profile-6C63FF?style=for-the-badge"/>
-</a>
 
 </div>
 
@@ -224,11 +178,12 @@
 <a href="mailto:sharma2005vishal@gmail.com">
 <img src="https://img.shields.io/badge/Email-sharma2005vishal%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-
-<a href="https://www.linkedin.com/in/sharma-vishal-1abc">
+<a href="https://linkedin.com/in/Vishal">
 <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Sharma-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-
+<a href="https://leetcode.com/Vishal">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 <a href="https://sharmavishal2.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome"/>
 </a>
