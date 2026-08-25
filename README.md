@@ -96,10 +96,6 @@
 
 # 🚀 Featured Projects
 
-<p align="center">
-  <i>Selected projects focused on backend engineering, scalability and real-world systems.</i>
-</p>
-
 ---
 
 ## 🔥 Distributed Rate Limiter
@@ -175,32 +171,29 @@
 </p>
 
 ---
+# 📌 Other Public Projects
 
-# 🤖 Other Notable Projects
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/sharmavishal2/AlgoPush">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmavishal2&repo=AlgoPush&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmavishal2&repo=AlgoPush&theme=tokyonight&hide_border=true" width="400"/>
 </a>
 
 <a href="https://github.com/sharmavishal2/MLH-HACKATHON---SmartHire">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmavishal2&repo=MLH-HACKATHON---SmartHire&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmavishal2&repo=MLH-HACKATHON---SmartHire&theme=tokyonight&hide_border=true" width="400"/>
 </a>
 
-</p>
-
-<p align="center">
+<br/>
 
 <a href="https://github.com/sharmavishal2/Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmavishal2&repo=Portfolio&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmavishal2&repo=Portfolio&theme=tokyonight&hide_border=true" width="400"/>
 </a>
 
 <a href="https://github.com/sharmavishal2/Quiz-Application">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmavishal2&repo=Quiz-Application&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmavishal2&repo=Quiz-Application&theme=tokyonight&hide_border=true" width="400"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -208,41 +201,56 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sharmavishal2&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=sharmavishal2&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=false" height="180"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavishal2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmavishal2&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavishal2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharmavishal2&theme=tokyo-night&hide_border=true&area=true&custom_title=Vishal's%20Contribution%20Activity" />
+<img src="https://streak-stats.demolab.com?user=sharmavishal2&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🗓️ Contribution Calendar
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/2563eb/sharmavishal2" alt="Vishal's GitHub Contribution Calendar" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmavishal2&theme=tokyo-night&hide_border=true&area=true&custom_title=Vishal%27s%20Contribution%20Activity" width="95%"/>
 
 </div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sharmavishal2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" />
+
+</div>
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/2563eb/sharmavishal2" alt="GitHub Contribution Calendar" width="95%"/>
+
+</div>
+
+
+
+
+
 
 ---
 
