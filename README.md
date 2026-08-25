@@ -1,309 +1,138 @@
-# Hi 👋, I'm Vishal Sharma
-
-### 🚀 Backend Developer | Java • Spring Boot • React • Distributed Systems
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+Redis;Full+Stack+Developer;300%2B+DSA+Problems+Solved;Building+Scalable+Systems" />
-</p>
+<h1 align="center">Hi 👋, I'm Vishal Sharma</h1>
+<h3 align="center">Java Backend Developer | Spring Boot • Distributed Systems • REST APIs</h3>
 
 <p align="center">
-  <a href="https://github.com/sharmavishal2">
-    <img src="https://komarev.com/ghpvc/?username=sharmavishal2&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://github.com/sharmavishal2?tab=followers">
-    <img src="https://img.shields.io/github/followers/sharmavishal2?label=Followers&style=flat" />
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 B.Tech CSE student
-* 💻 Backend-focused developer
-* ☕ Building applications with **Java & Spring Boot**
-* ⚡ Interested in **Distributed Systems, REST APIs & Scalable Backend Architecture**
-* 🧠 Solved **300+ DSA problems**
-* 🏆 Competitive programming enthusiast
-* 🔥 Currently improving my skills in **System Design, Redis, Kafka & Cloud**
-* 🚀 Open to software engineering internships and opportunities
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
-</p>
-
-### Database & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,kafka" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmavishal2&show_icons=true&count_private=false&include_all_commits=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavishal2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Spring+Boot+%7C+Redis+%7C+PostgreSQL;300%2B+DSA+Problems+Solved;Open+to+SDE+Internship+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmavishal2&theme=tokyonight&hide_border=true" />
+  <a href="https://www.linkedin.com/in/Vishal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sharma2005vishal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/Vishal" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+### 🚀 About Me
+
+- 🎓 B.Tech CSE @ Dr. Ambedkar Institute of Technology for Divyangjan (AKTU), Kanpur — 2027
+- 💻 I build **scalable backend systems** with Spring Boot, Redis, and PostgreSQL
+- 🧠 Solved **300+ DSA problems** across LeetCode & CodeChef
+- 🏆 Team Leader — Smart India Hackathon 2024 (Top 50 nationwide)
+- 🌱 Currently exploring **Microservices, System Design & Distributed Systems**
+- 📫 Reach me at **sharma2005vishal@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharmavishal2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmavishal2&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
----
-
-# 💻 Featured Projects
-
-### 🔥 Distributed Rate Limiter
-
-Production-ready distributed rate limiter built with Spring Boot, Redis, PostgreSQL and Docker.
-
-**Features**
-
-* Token Bucket
-* Sliding Window
-* Fixed Window
-* Distributed architecture
-* Redis-based rate limiting
-* Dockerized deployment
-
-<p>
-  <a href="https://github.com/sharmavishal2/Distributed-Rate-Limiter">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-### 🎯 GoalFlow
-
-Full-stack enterprise goal management platform with role-based access, AI-powered goal suggestions and analytics.
-
-**Tech:** Java • Spring Boot • React • PostgreSQL
-
-<p>
-  <a href="https://github.com/sharmavishal2/GoalFlow">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-### 🤖 AlgoPush
-
-AI-powered Chrome Extension that automatically publishes LeetCode solutions to GitHub with AI-generated explanations.
-
-**Tech:** Java • AI • GitHub API • Chrome Extension
-
-<p>
-  <a href="https://github.com/sharmavishal2/AlgoPush">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-### 🛒 E-Commerce Application
-
-Robust E-Commerce REST API built with Spring Boot featuring authentication, products, cart, orders and role-based access control.
-
-**Tech:** Java • Spring Boot • MySQL • JWT • JPA/Hibernate
-
-<p>
-  <a href="https://github.com/sharmavishal2/E-Commerce-Application-by-Java-Spring-Boot">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-### 💬 Real-Time Chat Application
-
-Scalable real-time chat application with room-based communication and instant messaging.
-
-**Tech:** Spring Boot • WebSockets • React • JavaScript
-
-<p>
-  <a href="https://github.com/sharmavishal2/Real-Time-Chat-App">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-### 🧠 SmartHire AI
-
-AI-powered Smart Career Assistant for resume analysis, interview preparation and career assistance.
-
-**Tech:** Spring Boot • React • Groq • LLaMA
-
-<p>
-  <a href="https://github.com/sharmavishal2/MLH-HACKATHON---SmartHire">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-# 📌 More Public Projects
-
-<p align="center">
-  <a href="https://github.com/sharmavishal2/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmavishal2&repo=Portfolio&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/sharmavishal2/Quiz-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmavishal2&repo=Quiz-Application&theme=tokyonight&hide_border=true" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sharmaVishal2&show_icons=true&theme=tokyonight&count_private=false&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaVishal2&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/sharmavishal2/Tic-Tac-Toe-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmavishal2&repo=Tic-Tac-Toe-Game&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/sharmavishal2/Realtime-Frontend-Taskboard-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharmavishal2&repo=Realtime-Frontend-Taskboard-&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaVishal2&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-# 📊 GitHub Repository Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sharmavishal2&show_icons=true&hide_title=true&count_private=false&include_all_commits=true&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmaVishal2&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmavishal2&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sharmaVishal2&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-# 📅 Contribution Graph
+### 🌟 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmavishal2&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/sharmaVishal2/Distributed-Rate-Limiter">🚦 Distributed Rate Limiter</a></h4>
+      Production-ready distributed rate limiter using Spring Boot, Redis & PostgreSQL — Token Bucket, Sliding Window and Fixed Window algorithms with sub-5ms evaluation latency under high concurrency.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/sharmaVishal2/E-Commerce-Application-by-Java-Spring-Boot">🛒 E-Commerce Backend Platform</a></h4>
+      Modular e-commerce backend with product catalog, cart, checkout & payments. Secured with Spring Security, JWT, and OAuth 2.0 social login; optimized queries via composite indexing.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/sharmaVishal2/GoalFlow">🎯 GoalFlow — Goal Management Platform</a></h4>
+      Full-stack enterprise goal management platform with role-based access (Employee/Manager/Admin), AI-powered goal suggestions, and analytics dashboards via secure REST APIs.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/sharmaVishal2/AlgoPush">⚡ AlgoPush</a></h4>
+      AI-powered Chrome Extension that publishes LeetCode solutions to GitHub in one click, with automatic AI-generated explanations and repository organization.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4><a href="https://github.com/sharmaVishal2/MLH-HACKATHON---SmartHire">💼 SmartHire (MLH Hackathon)</a></h4>
+      AI-powered Smart Career Assistant built with Spring Boot + React, using Groq (LLaMA 3) for real-time resume and cover letter generation.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Groq_LLaMA_3-FF6F00?style=flat-square"/>
+    </td>
+    <td width="50%">
+      <h4><a href="https://github.com/sharmaVishal2/Portfolio">🌐 Developer Portfolio</a></h4>
+      Modern, responsive backend developer portfolio built with HTML, CSS & JavaScript showcasing projects, skills, and achievements.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
+</table>
 
----
+<details>
+<summary>📁 More Projects</summary>
+<br/>
 
-# 🧩 Coding Profiles
+| Project | Description | Tech |
+|---|---|---|
+| [Quiz-Application](https://github.com/sharmaVishal2/Quiz-Application) | Spring Boot quiz app with REST APIs & dynamic quiz management | Java, MySQL, JPA/Hibernate |
+| [Realtime-Frontend-Taskboard](https://github.com/sharmaVishal2/Realtime-Frontend-Taskboard-) | Collaborative real-time taskboard with instant updates | JavaScript |
+| [Amazon-ML-challenge-2025](https://github.com/sharmaVishal2/Amazon-ML-challenge-2025) | Smart Product Pricing Challenge submission | ML |
+| [Smart-India-Hackathon-2025](https://github.com/sharmaVishal2/Smart-India-Hackathon-2025) | SIH 2025 team project | — |
+| [Shapes-hover-game](https://github.com/sharmaVishal2/Shapes-hover-game) | Fast-paced hover mini-game | HTML, CSS |
+| [Tic-Tac-Toe-Game](https://github.com/sharmaVishal2/Tic-Tac-Toe-Game) | Simple 2-player game | JavaScript |
+| [Number-guess-game](https://github.com/sharmaVishal2/Number-guess-game) | Number guessing game | HTML, CSS, JS |
 
-<p align="center">
-
-<a href="https://leetcode.com/u/sharmavishal2/">
-  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://github.com/sharmavishal2">
-  <img src="https://img.shields.io/badge/GitHub-sharmavishal2-181717?style=for-the-badge&logo=github" />
-</a>
-
-</p>
-
----
-
-# 🏅 Achievements
-
-* 🧠 **300+ DSA Problems** solved on LeetCode
-* 🏆 **CodeChef Global Rank 48** — PLACEPREP03
-* 🏆 **CodeChef Global Rank 824** — Starter Contest 237
-* 🇮🇳 **AIR 102** — NEC 2025
-* 💼 **JP Morgan Chase Software Engineering Virtual Experience**
-* 🤖 Built AI-powered applications using **Groq / LLaMA**
-* ⚡ Built distributed backend systems using **Spring Boot + Redis**
-
----
-
-# 📚 Currently Learning
-
-```text
-Spring Boot
-     ↓
-System Design
-     ↓
-Redis & Distributed Systems
-     ↓
-Kafka
-     ↓
-Microservices
-     ↓
-Cloud & DevOps
-```
-
----
-
-# 💡 Developer Philosophy
-
-> "Build things that solve real problems, understand how they work, and keep improving every day."
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/sharma-vishal-">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/sharmavishal2">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://sharmavishal2.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=googlechrome" />
-</a>
-
-</p>
+</details>
 
 ---
 
 <p align="center">
-  <b>⭐ If you find my projects interesting, consider giving them a star!</b>
+  <img src="https://komarev.com/ghpvc/?username=sharmaVishal2&style=flat-square&color=2563EB" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+<p align="center"><i>⭐️ From <a href="https://github.com/sharmaVishal2">sharmaVishal2</a> — thanks for stopping by!</i></p>
