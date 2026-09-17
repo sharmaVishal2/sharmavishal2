@@ -224,13 +224,7 @@
 
 ---
 
-# 📅 Contribution Calendar
 
-<div align="center">
-
-<img src="https://ghchart.rshah.org/2563eb/sharmavishal2" alt="GitHub Contribution Calendar" width="95%"/>
-
-</div>
 
 
 
